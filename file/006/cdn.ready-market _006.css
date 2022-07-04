@@ -12603,7 +12603,7 @@ h4.v_title {
 .them-main-title>span.decoration {
     display: block;
     width: 65px;
-    border-bottom: 2px solid #24305E;
+    border-bottom: 2px solid #F3ECD3;
     padding-top: 25px
 }
 
@@ -12854,7 +12854,7 @@ h4.v_title {
 }
 
 .choose-section .left-side .left-side-opact {
-    background: #F8E9A1;
+    background: #fff;
     height: 100%
 }
 
@@ -12872,7 +12872,7 @@ h4.v_title {
 }
 
 .choose-section .left-side .left-side-content .left-content-text>.them-main-title h2 {
-    color: #24305E;
+    color: #106D5C;
 }
 
 .choose-section .left-side .left-side-content .left-content-text>.them-main-title span {
@@ -13246,7 +13246,7 @@ h4.v_title {
 
 .home-latest-news {
     margin: 0;
-    background: #fff url("/file/005/product_LB.png") top left no-repeat;
+    background: #fff url("/file/006/product_LB.png") top left no-repeat;
     background-size: cover;
     background-attachment: fixed
 }
@@ -13256,7 +13256,7 @@ h4.v_title {
 }
 
 .home-latest-news .them-main-title h2 {
-    color: #24305E;
+    color: #106D5C;
 }
 
 .home-latest-news .news-item-wrapper {
@@ -13296,7 +13296,7 @@ h4.v_title {
     position: absolute;
     left: 0;
     top: 0;
-    background: #D1202C;
+    background: #B92A33;
     font-size: 16px;
     font-weight: 600;
     font-family: 'Poppins', 'Open Sans', Arial, '微軟正黑體', sans-serif;
@@ -13315,7 +13315,7 @@ h4.v_title {
 
 .news-item-wrapper .news-item .news-text-item>h3>a {
     line-height: 30px;
-    color: #24305E;
+    color: #106D5C;
     text-transform: capitalize;
     font-weight: 600
 }
@@ -13374,7 +13374,7 @@ h4.v_title {
 }
 
 .them-footer-section .footer-button-section {
-    background: #B92A33;
+    background: #868172;
     padding: 30px 0
 }
 
@@ -13387,7 +13387,7 @@ h4.v_title {
 .them-footer-section .footer-button-section a {
     width: 195px;
     line-height: 55px;
-    background: #24305E;
+    background: #B92A33;
     color: #fff;
     text-align: center;
     font-size: 15px;
@@ -13401,9 +13401,9 @@ h4.v_title {
 }
 
 .them-footer-section .footer-section {
-    background: #24305E;
+    background: #106D5C;
     padding-top: 70px;
-    color: rgba(255, 255, 255, 0.75)
+    color: rgba(255, 255, 255, 0.8)
 }
 
 .them-footer-section .footer-section .footer-item-one,
@@ -13416,7 +13416,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-item-one>p {
     margin: 30px 0 25px 0;
-    color: rgba(255, 255, 255, 0.75)
+    color: rgba(255, 255, 255, 0.8)
 }
 
 .them-footer-section .footer-section .footer-item-one>ul>li {
@@ -13425,7 +13425,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-item-one>ul>li>a {
     margin: 5px;
-    color: rgba(255, 255, 255, 0.75)
+    color: rgba(255, 255, 255, 0.8)
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li:hover>h6>a,
@@ -13448,7 +13448,7 @@ h4.v_title {
     content: "";
     display: inline-block;
     width: 20px;
-    border-bottom: 2px solid #FCD0D2;
+    border-bottom: 2px solid #F3ECD3;
     position: absolute;
     left: 0;
     top: 18px
@@ -13474,7 +13474,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-item-two>ul>li>a {
     text-transform: capitalize;
-    color: rgba(255, 255, 255, 0.75)
+    color: rgba(255, 255, 255, 0.8)
 }
 
 .them-footer-section .footer-section .footer-item-two>ul>li>a:hover {
@@ -13828,7 +13828,7 @@ h4.v_title {
 }
 
 .choose-section .home-two-right-side {
-    background: #F8E9A1;
+    background: #fff;
 }
 
 .choose-section .home-two-right-side .right-side-content {
@@ -17070,7 +17070,7 @@ h4.v_title {
 }
 
 .top_col {
-    background-color: #24305E;
+    background-color: #106D5C;
     padding: 10px 0
 }
 
@@ -18745,7 +18745,7 @@ a.interlink:hover {
 .navbar.navbar-inverse {
     margin-bottom: 0;
     background-color: #fff;
-    border-color: #24305E;
+    border-color: #fff0;
     min-height: 90px
 }
 
@@ -18785,7 +18785,7 @@ a.interlink:hover {
 .navbar-inverse .navbar-nav>li.active>a>b.caret,
 .navbar-inverse .navbar-nav>li>a:focus>b.caret,
 .navbar-inverse .navbar-nav>li>a:hover>b.caret {
-    color: rgba(255, 255, 255, 0.6)
+    color: #F3ECD3;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus,
@@ -18803,7 +18803,7 @@ a.interlink:hover {
 .nav .open>a:focus,
 .nav .open>a:hover {
     color: #fff;
-    background-color: #24305E !important
+    background-color: #B92A33 !important
 }
 
 .dropdown-menu {
@@ -18991,7 +18991,7 @@ a.carousel-control i.fa {
 }
 
 #home-image .home-image-text h1 {
-    color: #24305E;
+    color: #106D5C;
     max-width: 480px
 }
 
