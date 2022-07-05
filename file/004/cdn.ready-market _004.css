@@ -13246,7 +13246,7 @@ h4.v_title {
 
 .home-latest-news {
     margin: 0;
-    background: #fff url("/file/004/product_LB.png") top left no-repeat;
+    background: #fff url("./file/004/product_LB.png") top left no-repeat;
     background-size: cover;
     background-attachment: fixed
 }
