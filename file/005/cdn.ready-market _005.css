@@ -5750,7 +5750,7 @@ fieldset[disabled] .navbar-default .btn-link:hover {
 
 .navbar-inverse {
     background-color: #222;
-    border-color: #080808
+    /* border-color: #080808 */
 }
 
 .navbar-inverse .navbar-brand {
@@ -13516,7 +13516,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-bottom-item {
     padding: 20px 0;
-    background: rgba(0, 0, 0, 1.0)
+    background: #24305E;
 }
 
 .them-footer-section .footer-section .footer-bottom-item p {
@@ -18745,7 +18745,7 @@ a.interlink:hover {
 .navbar.navbar-inverse {
     margin-bottom: 0;
     background-color: #fff;
-    border-color: #24305E;
+    /* border-color: #24305E; */
     min-height: 90px
 }
 

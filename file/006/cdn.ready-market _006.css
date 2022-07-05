@@ -12603,7 +12603,7 @@ h4.v_title {
 .them-main-title>span.decoration {
     display: block;
     width: 65px;
-    border-bottom: 2px solid #F3ECD3;
+    border-bottom: 2px solid #B92A33;
     padding-top: 25px
 }
 
@@ -13469,7 +13469,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-bottom-item .privacy-item>h6>a:hover,
 .them-footer-section .footer-section .footer-item-two>ul>li:hover>i {
-    color: #fcc608
+    color: #FFF;
 }
 
 .them-footer-section .footer-section .footer-item-two>ul>li>a {
@@ -13478,7 +13478,7 @@ h4.v_title {
 }
 
 .them-footer-section .footer-section .footer-item-two>ul>li>a:hover {
-    color: #fcc608
+    color: #FFF;
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li {
@@ -13496,7 +13496,7 @@ h4.v_title {
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li>h4>a:hover {
-    color: #fcc608
+    color: #fcc608;
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li>i {
@@ -13516,7 +13516,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-bottom-item {
     padding: 20px 0;
-    background: rgba(0, 0, 0, 1.0)
+    background: #106D5C;
 }
 
 .them-footer-section .footer-section .footer-bottom-item p {
@@ -20583,7 +20583,7 @@ img {
         font-size: 16px;
         line-height: 26px;
         width: auto;
-        
+
     }
 
     .handheld-device-txts .intro_but {
