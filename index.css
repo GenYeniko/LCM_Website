@@ -21,7 +21,7 @@ html {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    margin: 5%;
+    margin: 3%;
 
 
 }
@@ -72,6 +72,19 @@ html {
 .p6 {
     
     background-color: #11806A;
+}
+
+.p7 {
+    background-color: #008C45;
+}
+
+.p8 {
+    background-color: #07856D;
+}
+
+.p9 {
+    
+    background-color: #D1202C;
 }
 
 .palette::before {
