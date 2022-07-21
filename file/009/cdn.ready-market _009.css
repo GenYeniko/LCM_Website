@@ -13322,7 +13322,7 @@ h4.v_title {
 }
 
 .news-item-wrapper .news-item:hover .news-text-item>h3>a {
-    color: #222222;
+    color: #fff;
 }
 
 .news-item-wrapper .news-item .news-text-item>p {
