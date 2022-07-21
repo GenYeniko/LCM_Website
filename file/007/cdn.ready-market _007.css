@@ -13402,10 +13402,10 @@ h4.v_title {
 }
 
 .them-footer-section .footer-section {
-    background: #222;
+    background: #fff;
 ;
     padding-top: 70px;
-    color: rgba(255, 255, 255, 0.8)
+    color: #222;
 }
 
 .them-footer-section .footer-section .footer-item-one,
@@ -13418,7 +13418,7 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-item-one>p {
     margin: 30px 0 25px 0;
-    color: rgba(255, 255, 255, 0.8)
+    color: #222;
 }
 
 .them-footer-section .footer-section .footer-item-one>ul>li {
@@ -13438,7 +13438,7 @@ h4.v_title {
 .them-footer-section .footer-section .footer-item-two>h3,
 .them-footer-section .footer-section .footer-item-three>h3,
 .them-footer-section .footer-section .footer-item-four address>h3 {
-    color: #fff;
+    color: #222;
     position: relative;
     padding-left: 35px;
     margin-bottom: 30px
@@ -13450,7 +13450,7 @@ h4.v_title {
     content: "";
     display: inline-block;
     width: 20px;
-    border-bottom: 2px solid #CD212A;
+    border-bottom: 2px solid #008C45;
     position: absolute;
     left: 0;
     top: 18px
@@ -13476,11 +13476,11 @@ h4.v_title {
 
 .them-footer-section .footer-section .footer-item-two>ul>li>a {
     text-transform: capitalize;
-    color: rgba(255, 255, 255, 0.8)
+    color: #222;
 }
 
 .them-footer-section .footer-section .footer-item-two>ul>li>a:hover {
-    color: #FFF;
+    color: #CD212A;
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li {
@@ -13494,11 +13494,11 @@ h4.v_title {
 .them-footer-section .footer-section .footer-item-three>ul>li>h4>a {
     line-height: 25px;
     text-transform: capitalize;
-    color: #fff
+    color: #222;
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li>h4>a:hover {
-    color: #fcc608;
+    color: #CD212A;
 }
 
 .them-footer-section .footer-section .footer-item-three>ul>li>i {
