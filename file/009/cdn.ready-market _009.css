@@ -12603,7 +12603,7 @@ h4.v_title {
 .them-main-title>span.decoration {
     display: block;
     width: 65px;
-    border-bottom: 2px solid #D1202C;
+    border-bottom: 2px solid #008c45;
     padding-top: 25px
 }
 
@@ -12854,7 +12854,7 @@ h4.v_title {
 }
 
 .choose-section .left-side .left-side-opact {
-    background: #222222;
+    background: #fff;
     height: 100%
 }
 
@@ -12872,7 +12872,7 @@ h4.v_title {
 }
 
 .choose-section .left-side .left-side-content .left-content-text>.them-main-title h2 {
-    color: #F4F5F0;
+    color: #E33C47;
 }
 
 .choose-section .left-side .left-side-content .left-content-text>.them-main-title span {
@@ -12881,7 +12881,7 @@ h4.v_title {
 
 .choose-section .left-side .left-side-content .left-content-text>p {
     font-size: 18px;
-    color: #F4F5F0;
+    color: #222;
     margin: 30px 0;
     text-align: right
 }
@@ -12919,7 +12919,7 @@ h4.v_title {
 
 .choose-section .right-side .right-side-content .right-content-text .right-side-item>i.flaticon {
     font-size: 50px;
-    color: #D1202C;
+    color: #E33C47;
     display: block;
     margin-bottom: 6px
 }
@@ -13256,7 +13256,7 @@ h4.v_title {
 }
 
 .home-latest-news .them-main-title h2 {
-    color: #222222;
+    color: #fff;
 }
 
 .home-latest-news .news-item-wrapper {
@@ -13296,7 +13296,7 @@ h4.v_title {
     position: absolute;
     left: 0;
     top: 0;
-    background: #D1202C;
+    background: #E33C47;
 ;
     font-size: 16px;
     font-weight: 600;
@@ -13316,7 +13316,7 @@ h4.v_title {
 
 .news-item-wrapper .news-item .news-text-item>h3>a {
     line-height: 30px;
-    color: #008c45;
+    color: #fff;
     text-transform: capitalize;
     font-weight: 600
 }
@@ -13326,7 +13326,7 @@ h4.v_title {
 }
 
 .news-item-wrapper .news-item .news-text-item>p {
-    color: #222222;
+    color: #fff;
     margin: 15px 0 0 0;
     display: -webkit-box;
     -webkit-line-clamp: 4;
@@ -13375,7 +13375,7 @@ h4.v_title {
 }
 
 .them-footer-section .footer-button-section {
-    background: #D1202C;
+    background: #E33C47;
     padding: 30px 0
 }
 
@@ -13450,7 +13450,7 @@ h4.v_title {
     content: "";
     display: inline-block;
     width: 20px;
-    border-bottom: 2px solid #D1202C;
+    border-bottom: 2px solid #E33C47;
     position: absolute;
     left: 0;
     top: 18px
@@ -13830,13 +13830,13 @@ h4.v_title {
 }
 
 .choose-section .home-two-right-side {
-    background: #222222;
+    background: #fff;
 }
 
 .choose-section .home-two-right-side .right-side-content {
     padding: 40px 0 0 80px;
     margin: 80px 0 0 0;
-    border-left: 1px solid #919191;
+    border-left: 1px solid #fff;
 }
 
 .choose-section .home-two-right-side .right-side-content .right-content-text {
@@ -13881,7 +13881,7 @@ h4.v_title {
 }
 
 .choose-section .home-two-right-side .right-side-content .right-content-text .right-side-item>span {
-    color: #F4F5F0;
+    color: #008c45;
     margin-bottom: 10px;
     font-size: 22px;
     font-weight: 600;
@@ -13897,7 +13897,7 @@ h4.v_title {
 }
 
 .choose-section .home-two-right-side .right-side-content .right-content-text .right-side-item>p {
-    color: #f4f5f0;
+    color: #222;
     padding: 0;
     display: -webkit-box;
     -webkit-line-clamp: 3;
@@ -14101,7 +14101,7 @@ h4.v_title {
 .Enar-page-banner .Enar-page-banner-opact ul>li>span.decoration {
     display: inline-block;
     width: 45px;
-    border-bottom: solid 2px #c51118;
+    border-bottom: solid 2px #008c45;
     vertical-align: middle;
     margin-right: 8px
 }
@@ -16550,33 +16550,33 @@ h4.v_title {
     letter-spacing: 1px;
     font-family: 'Poppins', 'Open Sans', Arial, '微軟正黑體', sans-serif;
     font-size: 14px;
-    color: #fff
+    color: #fff;
 }
 
 .Contact-us-section .Contact-us-form form button:before {
-    background: #151515
+    background: #151515;
 }
 
 .Contact-us-section .Contact-us-title-text,
 .Contact-us-section .Contact-us-form {
-    margin-bottom: 150px
+    margin-bottom: 150px;
 }
 
 .Contact-us-section .Contact-us-title-text>h3 {
     font-size: 38px;
-    line-height: 50px
+    line-height: 50px;
 }
 
 .Contact-us-section .Contact-us-title-text>span.decoration {
     display: block;
     width: 65px;
-    border-top: 2px solid #c51118;
-    margin-top: 25px
+    border-top: 2px solid #008c45;
+    margin-top: 25px;
 }
 
 .Contact-us-section .Contact-us-title-text>p {
     font-size: 20px;
-    margin: 40px 0 20px 0
+    margin: 40px 0 20px 0;
 }
 
 .Contact-us-section .Contact-us-title-text>strong {
@@ -17072,7 +17072,7 @@ h4.v_title {
 }
 
 .top_col {
-    background-color: #222;
+    background-color: #E33C47;
     padding: 10px 0
 }
 
@@ -18781,13 +18781,13 @@ a.interlink:hover {
 }
 
 .navbar-inverse .navbar-nav>li>a>b.caret {
-    color: #D1202C;
+    color: #008c45;
 }
 
 .navbar-inverse .navbar-nav>li.active>a>b.caret,
 .navbar-inverse .navbar-nav>li>a:focus>b.caret,
 .navbar-inverse .navbar-nav>li>a:hover>b.caret {
-    color: #F3ECD3;
+    color: #008c45;
 }
 
 .navbar-inverse .navbar-nav>li>a:focus,
@@ -18993,7 +18993,7 @@ a.carousel-control i.fa {
 }
 
 #home-image .home-image-text h1 {
-    color: #D1202C;
+    color: #fff;
     max-width: 480px
 }
 
